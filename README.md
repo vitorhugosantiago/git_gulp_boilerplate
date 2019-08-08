@@ -1,5 +1,5 @@
 ############ Gulp project files boilerplate 
-A simple example for a Gulp project
+* A simple example for a Gulp project
 
 ############ Features
 * Custom files (replace the files inside `www/targets` with your own, or use absolute paths as specified [here](https://github.com/mattrayner/cordova-plugin-vuforia#configxml)).
