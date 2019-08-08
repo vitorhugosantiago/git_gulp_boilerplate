@@ -12,8 +12,8 @@
 * gitBash (optional)
 
 ############ Build
-First, make sure to run npm install on local folder
-Second, run -> gulp build on terminal/gitbash
+* First, make sure to run npm install on local folder
+* Second, run -> gulp build on terminal/gitbash
 
 :tada: you're now compiling sass to css, autoprefixing to older browsers and creating a virtual server where your css lives
  
