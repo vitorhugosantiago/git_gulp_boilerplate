@@ -11,7 +11,7 @@ var autoprefixeroptions = {
 // creates virtual server & watches for changes on sass folder
 gulp.task('serve', function () {
     browserSync.init({
-        server: "./public"
+        server: "./"
     });
     gulp.watch("sass/**/*.scss", gulp.series('sass'));
     gulp.watch("sass/partials/**/*.scss", gulp.series('sass'));
