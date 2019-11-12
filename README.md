@@ -12,7 +12,7 @@ Custom files (replace the files inside `www/targets` with your own, or use absol
 Demos starting, automatically stopping and manually stopping the plugin.
 
 ########################
-####Requirements
+#### Requirements
 ########################
 
 * gulp
