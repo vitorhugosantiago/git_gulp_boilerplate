@@ -1,21 +1,37 @@
-############ Gulp project files boilerplate 
-* A simple example for a Gulp project
+########################
+###Gulp SCSS > CSS starter
+########################
 
-############ Features
-* Custom files (replace the files inside `www/targets` with your own, or use absolute paths as specified [here](https://github.com/mattrayner/cordova-plugin-vuforia#configxml)).
-* Demos starting, automatically stopping and manually stopping the plugin.
+Gulp starter project in order to auto compile SCSS into CSS
 
-############ Requirements
+########################
+####Features
+########################
+
+Custom files (replace the files inside `www/targets` with your own, or use absolute paths;
+Demos starting, automatically stopping and manually stopping the plugin.
+
+########################
+####Requirements
+########################
+
 * gulp
 * node.js
 * npm
-* gitBash (optional)
+* gitBash
 
-############ Build
+########################
+####Build
+########################
+
 * First, make sure to run npm install on local folder
-* Second, run -> gulp build on terminal/gitbash
+* Second, run -> gulp build on terminal/gitbash (on local folder)
 
-:tada: you're now compiling sass to css, autoprefixing to older browsers and creating a virtual server where your css lives
+:tada:
+You're now compiling sass to css, autoprefixing to older browsers and creating a virtual server where your css lives (usually 'http://localhost:3000/')
+:tada:
  
-############ License
+########################
+License
+########################
 MIT
